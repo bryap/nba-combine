@@ -47,3 +47,5 @@ The research concludes that NBA Draft Combine metrics are insufficient for relia
 * Hogan, S. R., et al. (2023). *The Athletic Intelligence Quotient and performance in the National Basketball Association.*
 * Lapin, N. (2025). *NBA Draft Combine & Player Info + "Drafted?" Data [Data set].*
 * Tong, T.-h., & Wang, G.-w. (2024). *Anthropometric and physical fitness indicators in the NBA.*
+
+*For a full technical report and executive summary of this project, please visit https://bryap.github.io/datasci_nba.html*
